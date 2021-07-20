@@ -1,0 +1,1 @@
+# spring-eureka-resttemplate-simple
